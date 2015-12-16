@@ -1,0 +1,1 @@
+Se monitorizan todos los parametros de planificación.
